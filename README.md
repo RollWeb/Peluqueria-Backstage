@@ -1,2 +1,2 @@
 # Peluqueria-Backstage
-Web Design for Peluquería BackStage
+![RollWeb Logo](https://github.com/RollWeb/Logos/blob/master/repo_logo.png)
